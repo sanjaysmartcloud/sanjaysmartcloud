@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanjay Kumar Patel</h1>
+<h3 align="center">Front-End Developer working with Smartcloud Infoservices Pvt. Ltd and passionate about script type and type script</h3>
+
 
 <!--
 **sanjaysmartcloud/sanjaysmartcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
