@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sanjay Kumar Patel</h1>
-<p align="center">Front-End Developer working with Smartcloud Infoservices Pvt. Ltd and passionate about script type and type script</p>
+<h1 align="left">Hi 👋, I'm Sanjay Kumar Patel</h1>
+<p align="left">Front-End Developer working with Smartcloud Infoservices Pvt. Ltd and passionate about script type and type script</p>
 
-🔭 I’m currently working on CBT
-💬 Technologies AngularJS, Angular, salisjs, ExpressJS
+- 🔭 I’m currently working on CBT <br>
+- 💬 Technologies AngularJS, Angular, salisjs, ExpressJS
 <!--
 **sanjaysmartcloud/sanjaysmartcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
