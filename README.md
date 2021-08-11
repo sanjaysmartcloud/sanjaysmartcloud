@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Patel</h1>
-<h3 align="center">Front-End Developer working with Smartcloud Infoservices Pvt. Ltd and passionate about script type and type script</h3>
+<p align="center">Front-End Developer working with Smartcloud Infoservices Pvt. Ltd and passionate about script type and type script</p>
 
 
 <!--
